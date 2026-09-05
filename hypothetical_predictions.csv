@@ -1,0 +1,4 @@
+tenure,MonthlyCharges,TotalCharges,SeniorCitizen,Contract,InternetService,TechSupport,PaymentMethod,Predicted_Churn_Probability
+2,95,190,0,Month-to-month,Fiber optic,No,Electronic check,0.537
+48,60,2880,0,Two year,DSL,Yes,Credit card,0.122
+12,75,900,1,One year,Fiber optic,No,Mailed check,0.293
